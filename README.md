@@ -6,6 +6,10 @@
 
 - 📫 How to reach me **ofekcohen3300@gmail.com**
 
+- 🤝 I thrive on connecting with like-minded individuals and exploring collaborative opportunities.
+
+- 💼 Currently, I am seeking part-time student opportunities in the field of Data Science.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ofek-cohen-375659225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ofek-cohen-375659225" height="30" width="40" /></a>
