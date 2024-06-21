@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ofek Cohen</h1>
+
 - 🎓 I'm Computer Science Student **at The Academic College of Tel Aviv - Yaffo.**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning.**
