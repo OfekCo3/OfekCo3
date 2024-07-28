@@ -2,7 +2,7 @@
 
 - 🎓 I'm Computer Science Student **at The Academic College of Tel Aviv - Yaffo.**
 
-- 🌱 I’m currently learning **Algorithms, Computer Architecture, Machine Learning.**
+- 🌱 I’m currently learning **Computer Communication and SQL.**
 
 - 📫 How to reach me **ofekcohen3300@gmail.com**
 
