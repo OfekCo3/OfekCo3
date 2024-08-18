@@ -2,7 +2,9 @@
 
 - 🎓 I'm Computer Science Student **at The Academic College of Tel Aviv - Yaffo.**
 
-- 🌱 I’m currently learning **Computer Communication and SQL.**
+- 🌱 I’m currently learning **Computer Communication,** and paticipating the **FullStack SummerCamp** at QueenB.
+
+- FullStack SummerCamp of QueenB
 
 - 📫 How to reach me **ofekcohen3300@gmail.com**
 
