@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Computer Communication,** and paticipating the **FullStack SummerCamp** at QueenB.
 
-- FullStack SummerCamp of QueenB
-
 - 📫 How to reach me **ofekcohen3300@gmail.com**
 
 - 🤝 I thrive on connecting with like-minded individuals and exploring collaborative opportunities.
