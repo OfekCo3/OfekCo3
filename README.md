@@ -3,7 +3,7 @@
 
 - 🎓 I'm a Computer Science Student **at The Academic College of Tel Aviv - Yaffo.**
 
-- 🌱 I’m currently learning **Computability**, **Systems Operating** and **Design Patterns.**
+- 🌱 I’m currently learning **Computability**, **Systems Operating**, **NLP** and **Design Patterns.**
 
 - 📫 How to reach me **ofekcohen3300@gmail.com**
 
