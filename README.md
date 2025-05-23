@@ -3,7 +3,7 @@
 
 - 🎓 I'm a Computer Science Student **at The Academic College of Tel Aviv - Yaffo.**
 
-- 🌱 I’m currently learning **Complexity**, **Big Data** and **Database Systems.**
+- 🌱 I’m currently learning **Complexity**, **Big Data**, **Game Development** and **Database Systems.**
 
 - 📫 How to reach me **ofekcohen3300@gmail.com**
 
