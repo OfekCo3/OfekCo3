@@ -1,16 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ofek Cohen</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ofekco3&label=Profile%20views&color=0e75b6&style=flat" alt="ofekco3" /> </p>
 
-- 🎓 I'm a Computer Science Student **at The Academic College of Tel Aviv - Yaffo.**
+🎓 CS student graduating September 2025 | The Academic College of Tel Aviv-Yaffo (Honors Program)
 
-- 🌱 I’m currently learning **Complexity**, **Big Data**, **Game Development** and **Database Systems.**
+💻 Currently building **Guardify AI** – a real-time theft detection platform using LLMs and cloud tech
 
-- 📫 How to reach me **ofekcohen3300@gmail.com**
+🛠️ Tech I'm working with:  
+• Backend: Python, Flask, SQLAlchemy, PostgreSQL  
+• Front: React & TypeScript  
+• Azure OpenAI, GCP Gemini, Cursor 
 
-- ⚡ Fun fact **I have completed the Israel National Trail.**
+📚 Current interests:  
+• Applied AI  
+• Real-time systems  
+• Scalable backend design  
+• Cloud architecture  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+📫 Reach me at: ofekcohen3300@gmail.com  
+
+⚡ Fun fact: I’ve completed the entire Israel National Trail🏞️  
+
+Connect with me:
 <a href="https://linkedin.com/in/ofek-cohen-375659225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ofek-cohen-375659225" height="30" width="40" /></a>
 </p>
 
