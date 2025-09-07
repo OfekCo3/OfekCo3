@@ -5,17 +5,6 @@
 
 💻 Currently building **Guardify AI** – a real-time theft detection platform using LLMs and cloud tech
 
-🛠️ Tech I'm working with:  
-• Backend: Python, Flask, SQLAlchemy, PostgreSQL  
-• Front: React & TypeScript  
-• Azure OpenAI, GCP Gemini, Cursor 
-
-📚 Current interests:  
-• Applied AI  
-• Real-time systems  
-• Scalable backend design  
-• Cloud architecture  
-
 📫 Reach me at: ofekcohen3300@gmail.com  
 
 ⚡ Fun fact: I’ve completed the entire Israel National Trail🏞️  
